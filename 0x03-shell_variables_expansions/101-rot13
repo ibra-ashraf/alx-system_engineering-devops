@@ -1,4 +1,2 @@
 #!/bin/bash
-trecho {a..z} | tr -d 'echo (n..z} $(echo {a..m} | tr
--d | trecho {A..Z} | tr -decho{N..Z} $(echo {
-A..M})| tr -d
+trecho {a..z} | tr -d 'echo (n..z} $(echo {a..m} | trd | trecho {A..Z} | tr -decho{N..Z} $(echo {A..M})| tr -d
